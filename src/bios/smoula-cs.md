@@ -13,3 +13,7 @@ Heroes of M&M 3: The Board game
 ## Rok narození
 
 1987
+
+## Bydliště
+
+Olomouc
